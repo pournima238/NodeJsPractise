@@ -1,0 +1,11 @@
+REST API -JSON
+GET/users/-html documnet render
+GET/api/users - List all users json
+GET/api/users/1
+DYNAMIC PATH PARAMETERS
+GET/api/users/:id
+POST/api/users
+PATCH/api/users
+DELETE/api/users
+
+hybrid server for viw and api
